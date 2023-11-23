@@ -1,0 +1,14 @@
+@font-face {
+    font-family: retroTeam;
+    src: url(../fonts/retro-team.otf) format("opentype");
+}
+
+h1 {
+    font-family: retroTeam;
+    font-size: 5em;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
